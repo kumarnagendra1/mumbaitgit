@@ -1,0 +1,4 @@
+read a 
+if [ $a -gt 10 ]
+then 
+echo is a positive value 
