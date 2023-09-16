@@ -1,0 +1,10 @@
+echo Enter value for a:
+read a 
+echo Enter value for b:
+read b 
+if [ $a -gt $b ]
+then 
+echo is a positive value
+else 
+echo is a negative value 
+fi
